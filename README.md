@@ -7,11 +7,11 @@ Project Notebooks
 This GitHub repository houses the code and documentation for the project. Below, you'll find a summary of the key notebooks and their contents:
 
 1. Exploratory Data Analysis (EDA) Notebook
-*In this notebook, we perform an in-depth exploratory data analysis (EDA) of the provided dataset. Key steps include:
+In this notebook, we perform an in-depth exploratory data analysis (EDA) of the provided dataset. Key steps include:
 
-*Data preprocessing: Handling missing values, data type conversions, and data quality checks.
+Data preprocessing: Handling missing values, data type conversions, and data quality checks.
 
-*Summary statistics: Gaining insights into the dataset's distribution, central tendencies, and variations.
+Summary statistics: Gaining insights into the dataset's distribution, central tendencies, and variations.
 
 Visualization: Creating visualizations to better understand the data distribution and relationships between variables.
 
